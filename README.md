@@ -42,10 +42,10 @@ This talk reinforced that ICT is not just about writing code, but about solving 
 Key takeaways for my future studies and career include:
 1. **Post-Launch Responsibility:** A developer's responsibility does not end after launching an app—maintaining **data privacy and system reliability** is critical.
 2. **Human Accountability:** Even with AI tools accelerating workflows, human oversight and accountability remain irreplaceable.
-3. **Business + Technical Mindset:** Balancing technical execution with user needs and operational sustainability leads to stronger, more impactful solutions.
+3. **Business + Technical Mindset:** Balancing technical execution with user needsa and operational sustainability leads to stronger, more impactful solutions.
 
 
 
 ## 📂 Repository Contents
-* 📄 [Assignment 2 Poster Group 4 Milo.pdf]
+* 📄 [Assignment 2 Poster Group 4 Milo.pdf](https://github.com/iqbalvy/SECP1513-Industry-Talk-1/blob/124e22b08fc36728973021fe188595fa2e4e3ee7/Assignment%202%20Poster%20Group%204%20Milo.pdf)
 * 🖼️ [Official Webinar Poster (JPEG)](./TIS_Webinar_Poster.jpeg)
