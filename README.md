@@ -13,7 +13,7 @@
 
 
 ## 📝 Executive Summary
-This talk highlighted the importance of combining **Technology** and **Business** thinking to solve real-world problems and create continuous value for users. Writing good code alone is not enough—understanding maintenance costs, risks, and user needs is essential to building products that attract target customers willing to pay for them.
+This talk highlighted the importance of combining **Technology** and **Business** thinking to solve real-world problems and create continuous value for users. Writing good code alone is not enough understanding maintenance costs, risks, and user needs is essential to building products that attract target customers willing to pay for them.
 
 ### 💡 Key Takeaways
 * **The Developer Paradox (Developer vs. CEO):** Developers focus on building and technical work, whereas CEOs focus on long-term operations, capital, and business growth.
