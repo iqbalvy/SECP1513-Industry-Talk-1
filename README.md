@@ -48,4 +48,4 @@ Key takeaways for my future studies and career include:
 
 ## 📂 Repository Contents
 * 📄 [Assignment 2 Poster Group 4 Milo.pdf](https://github.com/iqbalvy/SECP1513-Industry-Talk-1/blob/124e22b08fc36728973021fe188595fa2e4e3ee7/Assignment%202%20Poster%20Group%204%20Milo.pdf)
-* 🖼️ [Official Webinar Poster.jpg](https://github.com/iqbalvy/SECP1513-Industry-Talk-1/blob/8d01b7ce24847adb604e77ad6621fee3dc214613/Official%20Webinar%20Poster.png))
+* 🖼️ [Official Webinar Poster.jpg](https://github.com/iqbalvy/SECP1513-Industry-Talk-1/blob/8d01b7ce24847adb604e77ad6621fee3dc214613/Official%20Webinar%20Poster.png)
