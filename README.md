@@ -47,5 +47,5 @@ Key takeaways for my future studies and career include:
 
 
 ## 📂 Repository Contents
-* 📄 [Assignment 2 Poster — Group 4 Milo (PDF)](./Assignment_2_Poster_Group_4_Milo.pdf)
+* 📄 Assignment 2 Poster Group 4 Milo.pdf
 * 🖼️ [Official Webinar Poster (JPEG)](./TIS_Webinar_Poster.jpeg)
